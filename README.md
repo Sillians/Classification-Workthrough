@@ -1,2 +1,2 @@
 # Classification-Workthrough
-More of how to go around Classification problems and solutions to them.
+More like how to go around Classification problems and solutions to them.
